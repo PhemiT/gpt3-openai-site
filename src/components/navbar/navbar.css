@@ -44,6 +44,13 @@
     margin: 0 1rem;
     cursor: pointer;
 } 
+.gpt3__navbar-links_container p *{
+    transition: all 400ms ease;
+}
+
+.gpt3__navbar-links_container p *:hover {
+    color: var(--color-text);
+}
 
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {
