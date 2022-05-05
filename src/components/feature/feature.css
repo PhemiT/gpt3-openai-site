@@ -15,10 +15,10 @@
 
 .gpt3__features-container__feature-title h1 {
     font-family: var(--font-family);
-    font-weight: 800;
+    font-weight: 600;
     font-size: 18px;
     line-height: 24px;
-    letter-spacing: -0.04em;
+    letter-spacing: 0.5px;
     color: #fff;
 }
 
